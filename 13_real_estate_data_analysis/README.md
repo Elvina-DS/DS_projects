@@ -1,6 +1,6 @@
 # Research on Flats for Sale Advertisements
 ## Description:
-The data for exploration is provided by Yandex Real Estate project. It includes an archive of advertisements for flats for sale in St. Petersburg and neighboring areas collected over the past several years. Our goal is to determine the market value of real estate by setting parameters that will allow us to build an automated system capable of tracking anomalies and fraudulent activities.
+The data for exploration is provided by Yandex Real Estate project. It includes an archive of advertisements for flats for sale in St. Petersburg and neighboring areas collected over the past several years. My goal is to determine the market value of real estate by setting parameters that will allow us to build an automated system capable of tracking anomalies and fraudulent activities.
 ## Tools:
 Pandas, matplotlib, seaborn, numpy.
 Exploratory data analysis, data preprocessing, visualization.

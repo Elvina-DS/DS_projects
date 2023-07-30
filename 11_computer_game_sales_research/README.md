@@ -2,8 +2,8 @@
 ## Description:
 From open sources, historical data on game sales, user and expert ratings, genres, and platforms (such as Xbox or PlayStation) are available. It is necessary to identify the patterns that determine the success of a game. This will allow us to bet on potentially popular products and plan advertising campaigns.
 ## Tools:
-Pandas, matplotlib, seaborn, numpy, stats, skim, clean_columns, ydata_profiling
-Data pre-processing, Exploratory data analysis, Creating a portrait of the user in each region (North America, Europe, and Japan), Hypothesis testing, General conclusion regarding the results of the analysis.
+Pandas, matplotlib, seaborn, numpy, stats, skim, ydata_profiling.
+Exploratory data analysis, hypothesis testing, data preprocessing, visualisation.
 ## Goal:
 to identify patterns that determine game success and highlight popular products for 2017 sales forecasting and advertising campaign planning.
 ## Conclusion:
